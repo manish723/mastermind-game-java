@@ -1,4 +1,4 @@
-# mastermind-game-java
+# Mastermind-game-java
 
 Mastermind game in Java 
 
